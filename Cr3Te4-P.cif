@@ -1,0 +1,37 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Cr16-4Te16                            '
+_cell_length_a                         6.847804
+_cell_length_b                         3.997340
+_cell_length_c                         6.112815
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       89.436928
+_cell_angle_gamma                      90.000000
+_cell_volume                           167.318009
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Cr1        1.0     0.000000     0.500000     0.500000    Uiso  ? Cr
+   Cr2        1.0     0.000000     0.500000     1.000000    Uiso  ? Cr
+   Cr3        1.0     0.500000     0.000000     1.000000    Uiso  ? Cr
+   Te1        1.0     0.170305     0.000000     0.748220    Uiso  ? Te
+   Te2        1.0     0.829695     0.000000     0.251780    Uiso  ? Te
+   Te3        1.0     0.665112     0.500000     0.753856    Uiso  ? Te
+   Te4        1.0     0.334895     0.500000     0.244508    Uiso  ? Te

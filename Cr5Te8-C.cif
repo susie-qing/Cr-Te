@@ -1,0 +1,56 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'CrTe-hex-CONT                         '
+_cell_length_a                         12.072103
+_cell_length_b                         7.814293
+_cell_length_c                         9.109975
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       132.091629
+_cell_angle_gamma                      90.000000
+_cell_volume                           637.730071
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Cr1        1.0     0.500000     0.500000     -0.000000    Uiso  ? Cr
+   Cr2        1.0     -0.000000     0.000000     -0.000000    Uiso  ? Cr
+   Cr3        1.0     0.752870     0.500000     0.988007    Uiso  ? Cr
+   Cr4        1.0     0.247130     0.500000     0.011993    Uiso  ? Cr
+   Cr5        1.0     0.252870     0.000000     0.988007    Uiso  ? Cr
+   Cr6        1.0     0.747130     -0.000000     0.011993    Uiso  ? Cr
+   Cr7        1.0     -0.000000     0.768018     0.500000    Uiso  ? Cr
+   Cr8        1.0     -0.000000     0.231982     0.500000    Uiso  ? Cr
+   Cr9        1.0     0.500000     0.268018     0.500000    Uiso  ? Cr
+   Cr10       1.0     0.500000     0.731982     0.500000    Uiso  ? Cr
+   Te1        1.0     0.460868     0.251126     0.170338    Uiso  ? Te
+   Te2        1.0     0.539132     0.748874     0.829662    Uiso  ? Te
+   Te3        1.0     0.539132     0.251126     0.829662    Uiso  ? Te
+   Te4        1.0     0.460868     0.748874     0.170338    Uiso  ? Te
+   Te5        1.0     0.960868     0.751126     0.170338    Uiso  ? Te
+   Te6        1.0     0.039132     0.248874     0.829662    Uiso  ? Te
+   Te7        1.0     0.039132     0.751126     0.829662    Uiso  ? Te
+   Te8        1.0     0.960868     0.248874     0.170338    Uiso  ? Te
+   Te9        1.0     0.798297     0.500000     0.330780    Uiso  ? Te
+   Te10       1.0     0.201703     0.500000     0.669220    Uiso  ? Te
+   Te11       1.0     0.298297     -0.000000     0.330780    Uiso  ? Te
+   Te12       1.0     0.701703     -0.000000     0.669220    Uiso  ? Te
+   Te13       1.0     0.782886     0.000000     0.334236    Uiso  ? Te
+   Te14       1.0     0.217114     -0.000000     0.665764    Uiso  ? Te
+   Te15       1.0     0.282886     0.500000     0.334236    Uiso  ? Te
+   Te16       1.0     0.717114     0.500000     0.665764    Uiso  ? Te

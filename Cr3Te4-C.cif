@@ -1,0 +1,44 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  '86-34-C                               '
+_cell_length_a                         13.920100
+_cell_length_b                         3.965600
+_cell_length_c                         6.903000
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       61.801498
+_cell_angle_gamma                      90.000000
+_cell_volume                           335.830933
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Cr1        1.0     0.258653     0.500000     0.720879    Uiso  ? Cr
+   Cr2        1.0     0.741348     0.500000     0.279121    Uiso  ? Cr
+   Cr3        1.0     0.758652     0.000000     0.720879    Uiso  ? Cr
+   Cr4        1.0     0.241347     0.000000     0.279121    Uiso  ? Cr
+   Cr5        1.0     0.500000     0.000000     0.000000    Uiso  ? Cr
+   Cr6        1.0     0.000000     0.500000     0.000000    Uiso  ? Cr
+   Te1        1.0     0.367463     0.500000     0.971620    Uiso  ? Te
+   Te2        1.0     0.632537     0.500000     0.028380    Uiso  ? Te
+   Te3        1.0     0.867463     0.000000     0.971620    Uiso  ? Te
+   Te4        1.0     0.132537     0.000000     0.028380    Uiso  ? Te
+   Te5        1.0     0.618792     0.000000     0.545322    Uiso  ? Te
+   Te6        1.0     0.381594     0.000000     0.453034    Uiso  ? Te
+   Te7        1.0     0.118406     0.500000     0.546966    Uiso  ? Te
+   Te8        1.0     0.881594     0.500000     0.453034    Uiso  ? Te
