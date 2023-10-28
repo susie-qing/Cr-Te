@@ -1,0 +1,3 @@
+This directory contains a collection of structures of chromium tellurides. 
+Crystallographic Information File (CIF) is a standard text file format for representing crystallographic information, promulgated by the International Union of Crystallography (IUCr). Structure files in this format are stored in the 'cif' directory.
+Structure files of VASP input format are stored in the ¡®POSCAR¡¯ directory.
